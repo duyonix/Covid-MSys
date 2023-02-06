@@ -6,6 +6,6 @@
 4. 19120491 - Đặng Thái Duy - Thành viên - duyonix
 
 # Account Test
-- Role Admin:   account: admin1   - password: 1
-- Role Manager: account: manager1 - password: 1
-- Role User:    account: user1    - password: 1
+- Role Admin:   account: admin   - password: 1
+- Role Manager: account: manager - password: 1
+- Role User:    account: user    - password: 1
